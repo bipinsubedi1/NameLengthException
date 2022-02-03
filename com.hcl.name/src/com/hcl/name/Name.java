@@ -1,5 +1,4 @@
 package com.hcl.name;
-import java.swing.JOptionPane;
 import java.util.Scanner;
 public class Name {
 public static void main (String[] args) {
